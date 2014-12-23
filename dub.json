@@ -1,0 +1,10 @@
+{
+	"name": "delight",
+	"description": "The Simple Twitter Client",
+	"copyright": "Copyright (C) 2014 alphaKAI",
+	"authors": ["alphaKAI"],
+  "libs":["curl", "gtkd-2", "dl"],
+	"dependencies": {
+    "twitter4d" : "*"
+	}
+}
