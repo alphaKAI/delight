@@ -1,5 +1,5 @@
-.project
 .dub
+.*.*.swp
 icons
 config
-delight
+
